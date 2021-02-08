@@ -24,6 +24,4 @@
 <br />
 <br />
 
-<div align="center">
   <img alt="ajdintbk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdintbk&show_icons=true&hide_border=true" />
-</div>
