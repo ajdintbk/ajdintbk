@@ -1,4 +1,4 @@
-### Hi there, I'm Ajdin 👋
+### Hi there, I'm Ajdin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 🌱 I finished studies at Faculty of Information Technologies, Mostar. Living in Sarajevo, Bosnia and Herzegovina :bosnia_herzegovina: I’m currently learning everything and searching for a job.
 
